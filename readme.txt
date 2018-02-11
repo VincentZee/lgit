@@ -6,3 +6,4 @@ AAAAAAAAA
 Creating a new branch is quick and simple.
 BBBBBBBBBB
 日常更新...UTF-8
+remember...
