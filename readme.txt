@@ -8,3 +8,4 @@ BBBBBBBBBB
 日常更新...UTF-8
 remember...
 2018-2-22
+daily update
